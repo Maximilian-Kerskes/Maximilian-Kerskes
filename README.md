@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Maximilian-Kerskes&theme=tokyonight&show_ring=false&border_radius=9&hide=stars%2Cactive_day%2Cweek%2Ctrend%2Cgrade%2Chours%2Cissues)
+
 <!--
 **Maximilian-Kerskes/Maximilian-Kerskes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
